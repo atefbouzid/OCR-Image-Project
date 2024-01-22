@@ -26,7 +26,7 @@ This project provides a simple Optical Character Recognition (OCR) tool for extr
 - Utilizes Tesseract through the `pytesseract` library for accurate text recognition.
 
 ##  Motivation
-The OCR-Image-Atef project was born out of my curiosity and motivation to delve into Optical Character Recognition technology, where i developped my programming skills and got the change to know more about OCR.
+The OCR-Image-Atef project emerged from my curiosity and the drive to explore Optical Character Recognition technology. It provided an avenue to enhance my programming skills and gain valuable insights into the realm of OCR.
 
 ## References
 Tesseract: https://github.com/tesseract-ocr
@@ -35,7 +35,8 @@ OpenCV Image Processing: https://docs.opencv.org/master/d7/dbd/group__imgproc.ht
 
 ## Contact
 
-For any inquiries or feedback, please contact me at : atef.bouzid@ept.ucar.tn 
+For any inquiries or feedback, please feel free to contact me at: 
+atef.bouzid@ept.ucar.tn.
 
 Have a good day!
 atefbouzid/ 22-01-2024 © AtefBouzid.
