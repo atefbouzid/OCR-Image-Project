@@ -39,7 +39,6 @@ For any inquiries or feedback, please feel free to contact me at:
 atef.bouzid@ept.ucar.tn.
 
 Have a good day!
+
 atefbouzid/ 22-01-2024 © AtefBouzid.
 
-## License
-This project is licensed under the MIT License.
